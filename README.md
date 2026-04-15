@@ -14,5 +14,5 @@
    ├── rnn.ipynb                 # Training, testing and evaaluating the RNN Model
    ├── rnn_hyperparameter.ipynb  # Calculating the hyperparameters for the RNN model
    ├── xg_hyperparamter.ipynb    # Calculating XGBoost SHAP values
-   └──xgboost.ipynb              # Training, testing and evaaluating the XGBoost Model
+   └── xgboost.ipynb              # Training, testing and evaaluating the XGBoost Model
 ```
