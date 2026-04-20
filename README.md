@@ -1,4 +1,4 @@
-# Predicting Sea Level Changes on Long Island using Machine Learning Algotrithm
+# Predicting Sea Level Changes on Long Island using Machine Learning Algorithm
 
 ## Repository Structure
 
